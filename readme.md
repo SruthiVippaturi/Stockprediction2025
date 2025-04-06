@@ -67,7 +67,8 @@ Displayed actions for the next 7 days based on crash probabilities.
 ### How to Run this File 
 ### Clone the repository
 ```
-git clone https://github.com/SruthiVippaturi/StockPrediction_2025 
+git clone https://github.com/SruthiVippaturi/Stockprediction2025.git
+
 ```
 ### Install dependencies
 ```
